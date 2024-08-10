@@ -5,13 +5,13 @@
         "module": "Preserve",
         "moduleResolution": "Bundler",
         "declaration": true,
-        "outDir": "./dist",
+        "outDir": "../../../dist/",
         "newLine": "lf",
         "resolveJsonModule": true,
         "forceConsistentCasingInFileNames": true,
         "strict": true,
         "skipLibCheck": true
     },
-    "include": ["./src/**/*.ts"],
-    "exclude": ["./src/**/*.test.ts"]
+    "include": ["../../../src/**/*.ts"],
+    "exclude": ["../../../src/**/*.test.ts"]
 }
