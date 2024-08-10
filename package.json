@@ -1,0 +1,38 @@
+{
+  "name": "@robot-inventor/tsconfig-base",
+  "version": "0.0.0",
+  "description": "Robot-Inventor's `tsconfig.json` base file.",
+  "files": [
+    "tsc.json",
+    "bundler.json"
+  ],
+  "scripts": {
+    "format": "npx prettier --write ./**/*.json",
+    "format:check": "npx prettier --check ./**/*.json",
+    "ci:version": "changeset version",
+    "ci:publish": "changeset publish"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robot-Inventor/tsconfig-base.git"
+  },
+  "keywords": [
+    "tsconfig",
+    "typescript"
+  ],
+  "author": "Robot-Inventor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robot-Inventor/tsconfig-base/issues"
+  },
+  "homepage": "https://github.com/Robot-Inventor/tsconfig-base#readme",
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.5.0",
+    "@changesets/cli": "^2.27.7",
+    "prettier": "^3.3.3"
+  }
+}
