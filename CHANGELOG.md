@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 1.1.0
+
+### Minor Changes
+
+-   [#8](https://github.com/Robot-Inventor/tsconfig-base/pull/8) [`dcf6dc9`](https://github.com/Robot-Inventor/tsconfig-base/commit/dcf6dc9a6e27f9fb460cb10ef7ceb4ff1b663ede) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: add `rootDir` option
+
 ## 1.0.0
 
 ### Major Changes
