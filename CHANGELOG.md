@@ -1,5 +1,19 @@
 # @robot-inventor/tsconfig-base
 
+## 3.0.0
+
+### Major Changes
+
+-   [#15](https://github.com/Robot-Inventor/tsconfig-base/pull/15) [`9aaf7f8`](https://github.com/Robot-Inventor/tsconfig-base/commit/9aaf7f8638cc234b3f2f06572e14a069dfaa560e) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: improve type safety
+
+    Add the following TypeScript compiler options:
+
+    -   `noUncheckedIndexedAccess`
+    -   `noImplicitReturns`
+    -   `noFallthroughCasesInSwitch`
+    -   `noUnusedLocals`
+    -   `noUnusedParameters`
+
 ## 2.0.0
 
 ### Major Changes
