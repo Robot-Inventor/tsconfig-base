@@ -1,6 +1,6 @@
 {
   "name": "@robot-inventor/tsconfig-base",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Robot-Inventor's `tsconfig.json` base file.",
   "files": [
     "tsc.json",
