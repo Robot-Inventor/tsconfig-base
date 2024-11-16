@@ -1,5 +1,17 @@
 # @robot-inventor/tsconfig-base
 
+## 4.0.0
+
+### Major Changes
+
+-   [#17](https://github.com/Robot-Inventor/tsconfig-base/pull/17) [`aa4d6d3`](https://github.com/Robot-Inventor/tsconfig-base/commit/aa4d6d372608381f8355544f3c716df43469a4aa) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: improve type safety
+
+    Add the following TypeScript compiler options:
+
+    -   `exactOptionalPropertyTypes`
+    -   `noImplicitOverride`
+    -   `noPropertyAccessFromIndexSignature`
+
 ## 3.0.0
 
 ### Major Changes
