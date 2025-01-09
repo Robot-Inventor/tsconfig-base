@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 5.0.2
+
+### Patch Changes
+
+- [#31](https://github.com/Robot-Inventor/tsconfig-base/pull/31) [`f235f1f`](https://github.com/Robot-Inventor/tsconfig-base/commit/f235f1feb9c38d52e23d462f16aaafd50cca19f3) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - fix: resolve errors related to the `allowImportingTsExtensions` option
+
 ## 5.0.1
 
 ### Patch Changes
