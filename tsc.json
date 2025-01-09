@@ -20,7 +20,8 @@
         "noUnusedParameters": true,
         "exactOptionalPropertyTypes": true,
         "noImplicitOverride": true,
-        "noPropertyAccessFromIndexSignature": true
+        "noPropertyAccessFromIndexSignature": true,
+        "allowImportingTsExtensions": true
     },
     "include": ["../../../src/**/*.ts"],
     "exclude": ["../../../src/**/*.test.ts"]
