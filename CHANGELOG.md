@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 5.0.3
+
+### Patch Changes
+
+- [#33](https://github.com/Robot-Inventor/tsconfig-base/pull/33) [`34b7e12`](https://github.com/Robot-Inventor/tsconfig-base/commit/34b7e12d38e879f1ad6751d5e72ab0a935ffb11c) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - fix: include `react-emotion.json` in release
+
 ## 5.0.2
 
 ### Patch Changes
