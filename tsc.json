@@ -21,7 +21,8 @@
         "exactOptionalPropertyTypes": true,
         "noImplicitOverride": true,
         "noPropertyAccessFromIndexSignature": true,
-        "allowImportingTsExtensions": true
+        "allowImportingTsExtensions": true,
+        "verbatimModuleSyntax": true
     },
     "include": ["../../../src/**/*.ts"],
     "exclude": ["../../../src/**/*.test.ts"]
