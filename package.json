@@ -4,7 +4,8 @@
   "description": "Robot-Inventor's `tsconfig.json` base file.",
   "files": [
     "tsc.json",
-    "bundler.json"
+    "bundler.json",
+    "react-emotion.json"
   ],
   "scripts": {
     "format": "npx prettier --write ./**/*.json",
