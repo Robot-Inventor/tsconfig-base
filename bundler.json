@@ -21,6 +21,7 @@
         "exactOptionalPropertyTypes": true,
         "noImplicitOverride": true,
         "noPropertyAccessFromIndexSignature": true,
+        "noEmit": true,
         "allowImportingTsExtensions": true,
         "verbatimModuleSyntax": true
     },
