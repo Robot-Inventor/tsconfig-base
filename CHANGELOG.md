@@ -1,5 +1,13 @@
 # @robot-inventor/tsconfig-base
 
+## 5.0.1
+
+### Patch Changes
+
+- [#28](https://github.com/Robot-Inventor/tsconfig-base/pull/28) [`9914352`](https://github.com/Robot-Inventor/tsconfig-base/commit/9914352fc37060520ea6d96ee34d8bd442c9d966) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - fix: add `.tsx` files for `react-emotion.json`'s target
+
+- [#29](https://github.com/Robot-Inventor/tsconfig-base/pull/29) [`2dc8cc4`](https://github.com/Robot-Inventor/tsconfig-base/commit/2dc8cc46d8946a22760535dbb1273740b0755a88) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - fix: enable `noEmit` in `react-emotion.json` to avoid errors related to `allowImportingTsExtensions`
+
 ## 5.0.0
 
 ### Major Changes
