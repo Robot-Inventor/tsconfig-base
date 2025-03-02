@@ -21,7 +21,8 @@
         "exactOptionalPropertyTypes": true,
         "noImplicitOverride": true,
         "noPropertyAccessFromIndexSignature": true,
-        "verbatimModuleSyntax": true
+        "verbatimModuleSyntax": true,
+        "erasableSyntaxOnly": true
     },
     "include": ["../../../src/**/*.ts"],
     "exclude": ["../../../src/**/*.test.ts"]
