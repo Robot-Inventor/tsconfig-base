@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 6.0.0
+
+### Major Changes
+
+- [#42](https://github.com/Robot-Inventor/tsconfig-base/pull/42) [`3a70e29`](https://github.com/Robot-Inventor/tsconfig-base/commit/3a70e2964fe3bc4db7fc22366253125b56d89977) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: add support for TypeScript v5.8 `erasableSyntaxOnly`
+
 ## 5.0.3
 
 ### Patch Changes
