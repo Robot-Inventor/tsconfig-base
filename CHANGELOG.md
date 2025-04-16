@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 6.0.1
+
+### Patch Changes
+
+- [#47](https://github.com/Robot-Inventor/tsconfig-base/pull/47) [`516ef11`](https://github.com/Robot-Inventor/tsconfig-base/commit/516ef11a6d980165a75790d605cb427a0ee515e9) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - chore: update vulnerable dependencies
+
 ## 6.0.0
 
 ### Major Changes
