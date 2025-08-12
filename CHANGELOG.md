@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 6.0.2
+
+### Patch Changes
+
+- [#54](https://github.com/Robot-Inventor/tsconfig-base/pull/54) [`69c5dc7`](https://github.com/Robot-Inventor/tsconfig-base/commit/69c5dc766cca839c6e8055a4b881cb194adebeaf) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - ci: migrate from npm token to trusted publishing
+
 ## 6.0.1
 
 ### Patch Changes
@@ -51,7 +57,6 @@
 - [#17](https://github.com/Robot-Inventor/tsconfig-base/pull/17) [`aa4d6d3`](https://github.com/Robot-Inventor/tsconfig-base/commit/aa4d6d372608381f8355544f3c716df43469a4aa) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: improve type safety
 
     Add the following TypeScript compiler options:
-
     - `exactOptionalPropertyTypes`
     - `noImplicitOverride`
     - `noPropertyAccessFromIndexSignature`
@@ -63,7 +68,6 @@
 - [#15](https://github.com/Robot-Inventor/tsconfig-base/pull/15) [`9aaf7f8`](https://github.com/Robot-Inventor/tsconfig-base/commit/9aaf7f8638cc234b3f2f06572e14a069dfaa560e) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: improve type safety
 
     Add the following TypeScript compiler options:
-
     - `noUncheckedIndexedAccess`
     - `noImplicitReturns`
     - `noFallthroughCasesInSwitch`
