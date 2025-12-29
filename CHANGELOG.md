@@ -1,5 +1,15 @@
 # @robot-inventor/tsconfig-base
 
+## 6.1.0
+
+### Minor Changes
+
+- [#66](https://github.com/Robot-Inventor/tsconfig-base/pull/66) [`842d99e`](https://github.com/Robot-Inventor/tsconfig-base/commit/842d99e6d4c00777fd5a5d000a8e4542b1319777) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: enable `noUncheckedSideEffectImports`
+
+- [#69](https://github.com/Robot-Inventor/tsconfig-base/pull/69) [`4e15481`](https://github.com/Robot-Inventor/tsconfig-base/commit/4e1548172a08cfa153e34b0c7cc47757fec614c6) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: add `next.json` for Next.js projects
+
+- [#67](https://github.com/Robot-Inventor/tsconfig-base/pull/67) [`ec21966`](https://github.com/Robot-Inventor/tsconfig-base/commit/ec21966464d3d1755d2d2b170b2c10746e85b067) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: enable `incremental`
+
 ## 6.0.2
 
 ### Patch Changes
