@@ -28,6 +28,7 @@
         "jsxImportSource": "@emotion/react",
         "types": ["@emotion/react/types/css-prop"],
         "erasableSyntaxOnly": true,
+        "noUncheckedSideEffectImports": true,
         "incremental": true
     },
     "include": ["../../../src/**/*.ts", "../../../src/**/*.tsx"],
