@@ -25,7 +25,8 @@
         "allowImportingTsExtensions": true,
         "verbatimModuleSyntax": true,
         "erasableSyntaxOnly": true,
-        "noUncheckedSideEffectImports": true
+        "noUncheckedSideEffectImports": true,
+        "incremental": true
     },
     "include": ["../../../src/**/*.ts"],
     "exclude": ["../../../src/**/*.test.ts"]
