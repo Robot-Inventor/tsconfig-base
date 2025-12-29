@@ -22,7 +22,8 @@
         "noImplicitOverride": true,
         "noPropertyAccessFromIndexSignature": true,
         "verbatimModuleSyntax": true,
-        "erasableSyntaxOnly": true
+        "erasableSyntaxOnly": true,
+        "incremental": true
     },
     "include": ["../../../src/**/*.ts"],
     "exclude": ["../../../src/**/*.test.ts"]
