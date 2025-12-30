@@ -5,7 +5,8 @@
   "files": [
     "tsc.json",
     "bundler.json",
-    "react-emotion.json"
+    "react-emotion.json",
+    "next.json"
   ],
   "scripts": {
     "format": "npx prettier --write ./**/*.json",
