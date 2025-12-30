@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 6.1.2
+
+### Patch Changes
+
+- [#72](https://github.com/Robot-Inventor/tsconfig-base/pull/72) [`283e487`](https://github.com/Robot-Inventor/tsconfig-base/commit/283e487a8a66ab7a660915b2491a89f21fb82e3e) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - fix: fix `rootDir` of `next.json`
+
 ## 6.1.1
 
 ### Patch Changes
