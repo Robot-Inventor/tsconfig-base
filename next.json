@@ -3,10 +3,9 @@
     "compilerOptions": {
         "target": "ESNext",
         "module": "Preserve",
-        "rootDir": "../../../src/",
+        "rootDir": "../../../",
         "moduleResolution": "Bundler",
         "declaration": true,
-        "outDir": "../../../dist/",
         "newLine": "lf",
         "resolveJsonModule": true,
         "forceConsistentCasingInFileNames": true,
