@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 6.1.1
+
+### Patch Changes
+
+- [#70](https://github.com/Robot-Inventor/tsconfig-base/pull/70) [`9f2fd25`](https://github.com/Robot-Inventor/tsconfig-base/commit/9f2fd25290a1029ce14f2146e12793366209e337) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - fix: publish missing `next.json` file to npm
+
 ## 6.1.0
 
 ### Minor Changes
