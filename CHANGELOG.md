@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 7.0.0
+
+### Major Changes
+
+- [#74](https://github.com/Robot-Inventor/tsconfig-base/pull/74) [`0569f3d`](https://github.com/Robot-Inventor/tsconfig-base/commit/0569f3d8c30bcd369ce0a6477977890b6cb6f0a0) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: remove `noUncheckedSideEffectImports`
+
 ## 6.1.2
 
 ### Patch Changes
