@@ -26,7 +26,6 @@
         "verbatimModuleSyntax": true,
         "jsx": "react-jsx",
         "erasableSyntaxOnly": true,
-        "noUncheckedSideEffectImports": true,
         "incremental": true,
         "plugins": [
             {
