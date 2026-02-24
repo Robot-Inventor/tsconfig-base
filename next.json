@@ -26,6 +26,7 @@
         "jsx": "react-jsx",
         "erasableSyntaxOnly": true,
         "incremental": true,
+        "noUncheckedSideEffectImports": false,
         "plugins": [
             {
                 "name": "next"
