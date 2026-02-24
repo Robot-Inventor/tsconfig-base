@@ -1,5 +1,17 @@
 # @robot-inventor/tsconfig-base
 
+## 7.1.0
+
+### Minor Changes
+
+- [#77](https://github.com/Robot-Inventor/tsconfig-base/pull/77) [`576cc73`](https://github.com/Robot-Inventor/tsconfig-base/commit/576cc736faae4d7ef37600b753eba57776ca4a11) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: explicitly disable `noUncheckedSideEffectImports` to accommodate the latest TypeScript changes
+
+    Previously, `noUncheckedSideEffectImports` was disabled by default in TypeScript, but it has recently been enabled by default. Since this option can break existing projects that use CSS Modules, this commit explicitly disables it to maintain the previous behavior.
+
+    Ref:
+    - https://github.com/microsoft/TypeScript/pull/62443
+    - https://github.com/microsoft/typescript-go/pull/2864
+
 ## 7.0.0
 
 ### Major Changes
