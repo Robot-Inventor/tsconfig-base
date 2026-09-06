@@ -1,5 +1,11 @@
 # @robot-inventor/tsconfig-base
 
+## 7.2.0
+
+### Minor Changes
+
+- [#100](https://github.com/Robot-Inventor/tsconfig-base/pull/100) [`31821e7`](https://github.com/Robot-Inventor/tsconfig-base/commit/31821e75f89cd64ccae4be20d03154cecb2614cb) Thanks [@Robot-Inventor](https://github.com/Robot-Inventor)! - feat: add a `react.json` for React projects without Emotion
+
 ## 7.1.0
 
 ### Minor Changes
