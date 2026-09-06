@@ -5,6 +5,7 @@
   "files": [
     "tsc.json",
     "bundler.json",
+    "react.json",
     "react-emotion.json",
     "next.json"
   ],

@@ -18,4 +18,5 @@ Then, in your `tsconfig.json` file:
 
 - `@robot-inventor/tsconfig-base/tsc.json`: For use with the TypeScript compiler (`tsc`).
 - `@robot-inventor/tsconfig-base/bundler.json`: For use with a bundler like Webpack.
+- `@robot-inventor/tsconfig-base/react.json`: For use with React.
 - `@robot-inventor/tsconfig-base/react-emotion.json`: For use with React and Emotion.
