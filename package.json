@@ -2,6 +2,20 @@
   "name": "@robot-inventor/tsconfig-base",
   "version": "7.2.0",
   "description": "Robot-Inventor's `tsconfig.json` base file.",
+  "keywords": [
+    "tsconfig",
+    "typescript"
+  ],
+  "homepage": "https://github.com/Robot-Inventor/tsconfig-base#readme",
+  "bugs": {
+    "url": "https://github.com/Robot-Inventor/tsconfig-base/issues"
+  },
+  "license": "MIT",
+  "author": "Robot-Inventor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robot-Inventor/tsconfig-base.git"
+  },
   "files": [
     "tsc.json",
     "bundler.json",
@@ -9,33 +23,19 @@
     "react-emotion.json",
     "next.json"
   ],
-  "scripts": {
-    "format": "npx prettier --write ./**/*.json",
-    "format:check": "npx prettier --check ./**/*.json",
-    "ci:version": "changeset version",
-    "ci:publish": "changeset publish"
-  },
   "publishConfig": {
     "access": "public",
     "provenance": true
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Robot-Inventor/tsconfig-base.git"
+  "scripts": {
+    "format": "oxfmt --write .",
+    "format:check": "oxfmt --check .",
+    "ci:version": "changeset version",
+    "ci:publish": "changeset publish"
   },
-  "keywords": [
-    "tsconfig",
-    "typescript"
-  ],
-  "author": "Robot-Inventor",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Robot-Inventor/tsconfig-base/issues"
-  },
-  "homepage": "https://github.com/Robot-Inventor/tsconfig-base#readme",
   "devDependencies": {
     "@changesets/changelog-github": "^1.0.0",
     "@changesets/cli": "^3.0.0",
-    "prettier": "^3.3.3"
+    "oxfmt": "^0.74.0"
   }
 }
