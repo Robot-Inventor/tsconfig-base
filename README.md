@@ -10,7 +10,7 @@ npm install --save-dev @robot-inventor/tsconfig-base
 
 Then, in your `tsconfig.json` file:
 
-```json5
+```json
 {
     "extends": "@robot-inventor/tsconfig-base/tsc.json"
 }
